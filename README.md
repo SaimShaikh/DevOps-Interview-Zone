@@ -54,7 +54,7 @@ If you find this repository helpful, don’t forget to ⭐ star it and share it 
 
 ---
 
-### 🙏 Maintained by Team :
+### Maintained by Team :
 _☁️ Cloud Crew ☁️ _ 
 [**Saime Shaikh**](https://www.linkedin.com/in/saim-shaikh-devops/) & [**Fauzeya Naheed**](https://www.linkedin.com/in/fauzeya-naheed/)
 

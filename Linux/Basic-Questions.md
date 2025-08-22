@@ -5,7 +5,8 @@
 - Explain the architecture/components
 - Explain the kernel and its responsibilities, and also define shell types
 - Explain the package manager and its type
-- What is unix os? How does it differ from Linux 
+- What is unix os? How does it differ from Linux
+- What is CLI and GUI?
 - Difference between windows and linux
 - Explain the file system and its hierarchy
 - What is the process
@@ -64,6 +65,32 @@ system?
 system?
 - What is the difference between a service and a
 daemon in Linux?
+- what is samba
+- What is the difference between bash and DOS
+- Name the command used to review boot messages.
+-  What is a pipe?
+-   Name the command that is used to check all the listening
+ ports and services of your machine.
+- Name default ports used for DNS, SMTP, FTP, SSH, and DHCP
+   Squid
+-  What are the different network bonding modes used in Linux?
+-  What are the advantages of using NIC teaming?
+-   Why /etc/resolv.conf and /etc/hosts files are used?
+-    What is load average in Linux?
+-    Name the daemon that controls the print spooling process.
+-     What is a “/proc” file system?
+- What is LVM and why is it required?
+-  How do you secure a Linux server?
+-   How do you optimize Linux system performance?
+-   How do you troubleshoot a Linux OS that fails to boot?
+-   What is the difference between absolute and relative paths in 
+Linux?
+-  What is the difference between a process and a daemon in Linux?
+-   What is the purpose of the crontab file in Linux, and how do you 
+schedule recurring tasks using cron jobs?
+- How do you change the ownership of a file or directory in Linux 
+using the chown command?
+- How to copy a file to multiple directories in Linux?
 
 
 
@@ -102,6 +129,9 @@ daemon in Linux?
 - How do you secure an SSH server? Could you explain the purpose of the SSH command?
 - What is the purpose of the /home directory?
 - How do you set a static IP address in Linux?
+- What is the purpose of the netstat command in Linux, and how does it work? 
+  you view network connections and listening ports?
+-  
 - 
 - 
 - 
